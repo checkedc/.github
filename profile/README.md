@@ -1,6 +1,6 @@
 ## Helping developers write more secure systems code
 
-**The Secure Software Development Project supports research, development and use of the Checked C extension to C.**
+**Supporting development, research, and use of the Checked C extension to C.**
 
 ### About Checked C
 
