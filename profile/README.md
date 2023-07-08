@@ -1,7 +1,5 @@
 ## Helping developers write more secure systems code
 
-**Supporting development, research, and use of the Checked C extension to C.**
-
 ### About Checked C
 
 Checked C extends C with bounds checking and type-safety.  This helps developers write more secure systems code.
