@@ -10,7 +10,8 @@ Checked C extends C with bounds checking and type-safety.  This helps developers
  * It supports annotations that can be erased from your program using macros, so that your Checked C code can compile with C
    compilers that do not understand Checked C annotations.
 
-Checked C includes a language specification, samples, a compiler, and a tool for translating your existing C code to Checked C.
+Checked C includes a [language specification](https://github.com/checkedc/checkedc/releases/download/v1.0/checkedc-v1.0.pdf), 
+samples, a compiler, and a tool for translating your existing C code to Checked C.
 
 ## About the Project
 
