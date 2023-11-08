@@ -1,6 +1,6 @@
-## Helping developers write more secure systems code
+# Helping developers write more secure systems code
 
-### About Checked C
+## About Checked C
 
 Checked C extends C with bounds checking and type-safety.  This helps developers write more secure systems code.
  * It is opt-in and backwards compatible. As a developer,  you add annotations and/or modify types to opt-in to bounds checking and type-safety. 
@@ -30,7 +30,7 @@ samples, a compiler, and a tool for translating your existing C code to Checked 
  so support project activities.
  
 <!--
-## Learning more
+# Learning more
 
-## Organization of the rpos
+# Organization of the repos
 -->
