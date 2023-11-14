@@ -11,7 +11,9 @@ Checked C extends C with bounds checking and type-safety.  This helps developers
    compilers that do not understand Checked C annotations.
 
 Checked C includes a [language specification](https://github.com/checkedc/checkedc/releases/download/v1.0/checkedc-v1.0.pdf), 
-samples, a compiler, and a tool for translating your existing C code to Checked C.
+samples, a [compiler](https://github.com/checkedc/checkedc-llvm-project/releases/tag/CheckedC-Clang-12.0.2),
+and [3C](https://github.com/checkedc/checkedc-llvm-project/tree/main/clang/docs/checkedc/3C), a
+tool for translating existing C code to Checked C.
 
 ## About the Project
 
