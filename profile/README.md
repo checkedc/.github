@@ -2,7 +2,7 @@
 
 ## About Checked C
 
-Checked C extends C with bounds checking and type-safety.  This helps developers write more secure systems code.
+Checked C extends C with bounds checking and improved type-safety.  This helps developers write more secure systems code.
  * It is opt-in and backwards compatible. As a developer,  you add annotations and/or modify types to opt-in to bounds checking and type-safety. 
  * All existing C code is valid Checked C code. 
  * It supports incremental conversion of code. You can convert a few security-critical functions or your entire program, and do the conversion
